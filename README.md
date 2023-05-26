@@ -1,0 +1,2 @@
+# StatsDaFabrica
+Stats da Fábrica
